@@ -1,9 +1,20 @@
-.important{scroll-behavior: smooth;
-          height: auto;
+.important{width: 40%;
+           float: right;
+           padding: 30px;
+           border: 8px;
+           margin: 8px;
+           scroll-behavior: smooth;
+           height: auto;
 }
-.Sidebar{color: #f0e3d5;
-         width: auto;
-         float:
+.sidebar{
+         width: 40%;
+         float: right;
+         padding: 30px;
+         border: 8px;
+         margin: 8px;
+}
+img{size:10px;
+  float: left;
 }
 body{
      background-color: white;
@@ -15,19 +26,19 @@ h1 {color: #0382aa;
     font-style: italic;
     font-size: 18
 }
-h2 {color: #03beca;
+.sidebar h2 {color: #03beca;
     font-style: normal;
     text-align: center;
     font-size: 14
 }
-
 p {font-family: cursive;
+  font-size: 13
 }
 ul {color: Green;
     line-height: inherit;
     font-size: 11
 }
-ol{color: Green;
+ol{color: brown;
   line-height: inherit;
   font-size: 11
 }
