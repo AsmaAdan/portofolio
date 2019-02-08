@@ -6,7 +6,7 @@
            scroll-behavior: smooth;
            height: auto;
 }
-.sidebar{
+.sidebar{background-color: 	#00CED1;
          width: 40%;
          float: right;
          padding: 30px;
@@ -26,9 +26,10 @@ img{width: 750px;
     height: 200px;
 }
 body{
-     background-color: grey;
-     font-family: sans-serif;
-     line-height: inherit;
+  background-image:
+  url(file:///Users/asma/Desktop/moringa-school-projects/portofolio/images/plantbchem.jpeg);
+  background-repeat:no-repeat;
+
 }
 h1 {color: #0382aa;
     text-align: center;
