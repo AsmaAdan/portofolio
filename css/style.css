@@ -1,0 +1,33 @@
+.important{scroll-behavior: smooth;
+          height: auto;
+}
+.Sidebar{color: #f0e3d5;
+         width: auto;
+         float:
+}
+body{
+     background-color: white;
+     font-family: sans-serif;
+     line-height: inherit;
+}
+h1 {color: #0382aa;
+    text-align: center;
+    font-style: italic;
+    font-size: 18
+}
+h2 {color: #03beca;
+    font-style: normal;
+    text-align: center;
+    font-size: 14
+}
+
+p {font-family: cursive;
+}
+ul {color: Green;
+    line-height: inherit;
+    font-size: 11
+}
+ol{color: Green;
+  line-height: inherit;
+  font-size: 11
+}
