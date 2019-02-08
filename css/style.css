@@ -5,6 +5,7 @@
            margin: 8px;
            scroll-behavior: smooth;
            height: auto;
+
 }
 .sidebar{background-color: 	#00CED1;
          width: 40%;
@@ -27,8 +28,10 @@ img{width: 750px;
 }
 body{
   background-image:
-  url(file:///Users/asma/Desktop/moringa-school-projects/portofolio/images/plantbchem.jpeg);
+  url(file:///Users/asma/Desktop/moringa-school-projects/portofolio/images/vectorstock_1182910.jpg);
   background-repeat:no-repeat;
+  background-size:1500px;
+  font-color: white;
 
 }
 h1 {color: #0382aa;
