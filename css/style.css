@@ -1,7 +1,7 @@
 .important{width: 40%;
            float: right;
            padding: 30px;
-           border: 8px;
+           border: 6px;
            margin: 8px;
            scroll-behavior: smooth;
            height: auto;
@@ -10,11 +10,20 @@
          width: 40%;
          float: right;
          padding: 30px;
-         border: 8px;
+         border: 6px;
          margin: 8px;
 }
-img{size:10px;
-  float: left;
+.line1{align-text: centre;
+       font-size:26;
+}
+
+.image{margin: auto;
+       width: 60%;
+       border: 3px;
+       padding: 10px;
+}
+img{width: 750px;
+    height: 200px;
 }
 body{
      background-color: white;
@@ -24,21 +33,26 @@ body{
 h1 {color: #0382aa;
     text-align: center;
     font-style: italic;
-    font-size: 18
+    font-size: 18;
 }
-.sidebar h2 {color: #03beca;
+h2 {color: #03beca;
     font-style: normal;
     text-align: center;
-    font-size: 14
+    font-size: 14;
 }
+h3 {color: #c48430;
+    font-style: normal;
+    text-align: center;
+    font-size: 14;
+
 p {font-family: cursive;
-  font-size: 13
+  font-size: 13;
 }
 ul {color: Green;
     line-height: inherit;
-    font-size: 11
+    font-size: 11;
 }
 ol{color: brown;
   line-height: inherit;
-  font-size: 11
+  font-size: 11;
 }
