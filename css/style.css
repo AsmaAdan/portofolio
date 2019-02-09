@@ -5,9 +5,8 @@
            margin: 8px;
            scroll-behavior: smooth;
            height: auto;
-
 }
-.sidebar{background-color: 	#00CED1;
+.sidebar{background-color: 	#DB7093;
          width: 40%;
          float: right;
          padding: 30px;
@@ -22,41 +21,34 @@
        width: 60%;
        border: 3px;
        padding: 10px;
+       
 }
 img{width: 750px;
     height: 200px;
 }
 body{
-  background-image:
-  url(file:///Users/asma/Desktop/moringa-school-projects/portofolio/images/vectorstock_1182910.jpg);
-  background-repeat:no-repeat;
-  background-size:1500px;
-  font-color: white;
+  background-color: #f0dad6;
 
 }
 h1 {color: #0382aa;
     text-align: center;
     font-style: italic;
-    font-size: 18;
+    font-size: 38;
 }
 h2 {color: #03beca;
     text-align: center;
-    font-size: 15;
+    font-size: 30;
 }
 h3 {color: #c48430;
     text-decoration: underline;
     text-align: center;
-    font-size: 14;
+    font-size: 24;
 
 p {font-style: italic;
-   font-size: 12;
-   color: #4e4801
+   font-size: 20;
+   font-color: white;
 }
-ul {color: Green;
-    line-height: inherit;
-    font-size: 11;
+ul {font-size: 14;
 }
-ol{color: brown;
-  line-height: inherit;
-  font-size: 11;
+ol{font-size: 14;
 }
