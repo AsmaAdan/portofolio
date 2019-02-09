@@ -13,14 +13,13 @@
          border: 6px;
          margin: 7px;
 }
-.line1{align-text: centre;
+#line1{color: #ffd801;
        font-size:26;
 }
 
-
 }
-img{width: 950px;
-    height: 500px;
+img{width: auto;
+    height: inherit;
 
 }
 body{
