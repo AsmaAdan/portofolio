@@ -1,8 +1,8 @@
-.important{width: 40%;
+.important{width: 58%;
            float: right;
            padding: 30px;
-           border: 6px;
-           margin: 8px;
+           border: 8px;
+           margin: 9px;
            scroll-behavior: smooth;
            height: auto;
 }
@@ -15,6 +15,7 @@
 }
 #line1{color: #ffd801;
        font-size:26;
+       text-align: left;
 }
 
 }
@@ -37,7 +38,6 @@ h2 {color: #03beca;
 }
 h3 {color: #c48430;
     text-decoration: underline;
-    text-align: center;
     font-size: 24;
 
 p {font-style: italic;
