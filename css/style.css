@@ -7,11 +7,11 @@
            height: auto;
 }
 .sidebar{background-color: 	#DB7093;
-         width: 40%;
-         float: right;
-         padding: 30px;
+         width: 30%;
+         float: left;
+         padding: 20px;
          border: 6px;
-         margin: 8px;
+         margin: 7px;
 }
 .line1{align-text: centre;
        font-size:26;
@@ -19,8 +19,9 @@
 
 
 }
-img{width: 750px;
-    height: 200px;
+img{width: 950px;
+    height: 500px;
+
 }
 body{
   background-color: #f0dad6;
