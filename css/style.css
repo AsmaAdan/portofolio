@@ -3,10 +3,9 @@
            padding: 30px;
            border: 8px;
            margin: 9px;
-           scroll-behavior: smooth;
            height: auto;
 }
-.sidebar{background-color: 	#DB7093;
+.sidebar{background-color: #DB7093;
          width: 30%;
          float: left;
          padding: 20px;
@@ -42,9 +41,13 @@ h3 {color: #c48430;
 
 p {font-style: italic;
    font-size: 20;
-   font-color: white;
+   
 }
 ul {font-size: 14;
 }
 ol{font-size: 14;
 }
+@media screen and (min-width: 400px) {
+  body {
+    background-color: black;
+    colour: White;
