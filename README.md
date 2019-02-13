@@ -1,8 +1,8 @@
 # my-first-website
 ### An attempt at learning how to create a website on 5th and 6th of February 2019
 #### By Asma Adan
-##### Learning HTML at Moringa School prep requires the setting up of a website. The folder has 2 HTML documents including my favorite things and my first webpage.
-##### You can take a look at it and let me know any changes i should make or any suggestions you maybe having. Thank you in advance.
+##### Learning HTML and css at Moringa School prep requires the setting up of an about me website. 
+##### You can take a look at it and let me know any changes I should make or any suggestions you maybe having or how I should make my portofolio appealing. Thank you in advance.
 ## Setup
 #### Want to help Me learn more? Great!
 ##### To Make changes follow these steps:
